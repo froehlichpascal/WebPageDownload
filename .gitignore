@@ -134,8 +134,6 @@ fabric.properties
 *.iml
 out
 gen
-.gitignore
 .idea/
 JavaDownloadWebPage.iml
 out/
-src/
